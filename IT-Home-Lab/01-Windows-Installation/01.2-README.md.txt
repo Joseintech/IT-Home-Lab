@@ -1,0 +1,33 @@
+# Local Windows Administration & Help Desk Basics
+
+## Objective
+Build hands on experience with Windows user management and system administration tasks commonly performed by IT help desk and junior system administrator roles.
+
+## Environment
+	•	Host OS: macOS (Apple Silicon)
+	•	Virtualization Platform: UTM
+	•	Guest OS: Windows 11 ARM64
+	•	Architecture: ARM-based virtualization
+
+## Tasks Performed
+	1	Successfully installed and launched a Windows 11 virtual machine.
+	2	Accessed core administrative tools using Computer Management.
+	3	Created and managed local user accounts.
+	4	Configured:
+	◦	Standard user account (jdoe)
+	◦	Administrative user account (itadmin)
+	5	Assigned administrative privileges using local group membership.
+	6	Verified user permissions to enforce least privilege.
+	7	Accessed Event Viewer to review security and system logs.
+	8	Documented configuration using a structured screenshot and README.
+
+## Skills Demonstrated
+	•	Windows OS administration
+	•	Local user and group management
+	•	Permission and role based access control
+	•	Basic security auditing concepts
+	•	Professional IT documentation practices
+
+## Outcome
+A fully functional Windows environment with properly configured user accounts and permissions. This lab demonstrates real world help desk capabilities, including account provisioning, privilege management, and system monitoring, and serves as a foundation for future labs such as Active Directory, domain services, and enterprise user management.
+
