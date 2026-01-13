@@ -14,12 +14,12 @@ Build hands on experience with Windows user management and system administration
 	2	Accessed core administrative tools using Computer Management.
 	3	Created and managed local user accounts.
 	4	Configured:
-	◦	Standard user account (jdoe)
-	◦	Administrative user account (itadmin)
-	5	Assigned administrative privileges using local group membership.
-	6	Verified user permissions to enforce least privilege.
-	7	Accessed Event Viewer to review security and system logs.
-	8	Documented configuration using a structured screenshot and README.
+	5	Standard user account (jdoe)
+	6	Administrative user account (itadmin)
+	7	Assigned administrative privileges using local group membership.
+	8	Verified user permissions to enforce least privilege.
+	9	Accessed Event Viewer to review security and system logs.
+	10	Documented configuration using a structured screenshot and README.
 
 ## Skills Demonstrated
 	•	Windows OS administration
